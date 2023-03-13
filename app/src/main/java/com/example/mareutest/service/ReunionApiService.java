@@ -10,11 +10,13 @@ import java.util.List;
 
 public interface ReunionApiService {
 
+
+    List<Reunion> getReunionsTest();
+
     /**
      * Get all Reunions
      * @return {@link List}
      */
-    List<Reunion> getReunionsTest();
     List<Reunion> getReunions();
 
 
