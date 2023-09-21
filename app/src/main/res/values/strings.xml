@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MaReu</string>
+    <string name="participantsMails">exemple@lamzone.fr, exemple@lamzone.fr exemple@lamzone.fr</string>
+    <string name="theme_heure_salle">Theme - Heure - Salle</string>
+    <string name="deletebtn">deletebtn</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="ouvrir_le_menu_d_ajout_de_réunion">Ouvrir le menu d\'ajout de réunion</string>
+    <string name="participants_hint">Entrez les adresses e-mail des participants</string>
+    <string name="valider">Valider</string>
+    <string name="veuillez_choisir_la_salle_de_la_r_union">Veuillez choisir la salle de la réunion.</string>
+    <string name="veuillez_saisir_le_th_me_de_la_r_union">Veuillez saisir le thème de la réunion.</string>
+    <string name="veuillez_saisir_les_adresses_email_des_participants_s_par_es_par_des_virgules">Veuillez saisir les adresses email des participants (séparées par des virgules).</string>
+    <string name="salle_a">Salle A</string>
+    <string name="salle_b">Salle B</string>
+    <string name="salle_c">Salle C</string>
+    <string name="salle_d">Salle D</string>
+    <string name="salle_e">Salle E</string>
+    <string name="reset">Reset</string>
+    <string name="filtrer">Filtrer</string>
+</resources>

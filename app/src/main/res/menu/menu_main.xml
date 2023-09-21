@@ -1,0 +1,30 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_filter"
+        android:title="@string/filtrer"
+        app:showAsAction="always">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/salleA"
+                    android:title="@string/salle_a" />
+                <item
+                    android:id="@+id/salleB"
+                    android:title="@string/salle_b" />
+                <item
+                    android:id="@+id/salleC"
+                    android:title="@string/salle_c" />
+                <item
+                    android:id="@+id/salleD"
+                    android:title="@string/salle_d" />
+                <item
+                    android:id="@+id/salleE"
+                    android:title="@string/salle_e" />
+            </group>
+            <item
+                android:id="@+id/menu_reset"
+                android:title="@string/reset" />
+        </menu>
+    </item>
+</menu>
